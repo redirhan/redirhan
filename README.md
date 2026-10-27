@@ -1,8 +1,8 @@
-### Merhaba, biz Redirhan Studio
+### Merhaba, biz Redirhan Labs
 
-Türkiye'de bir sosyal medya ajansıyız: markalar ve içerik üreticileri için reels, story, carousel ve hesap yönetimi.
-Kendi işimizde Türkçe için ihtiyaç duyduğumuz yapay zekâ araçlarını Claude Code skill'i olarak yazıyor, bir kısmını
-ücretsiz açıyoruz.
+Türkçe için yapay zekâ araçları (Claude Code skill'leri) yazan küçük bir ekibiz. Türkçe büyük-küçük harf, Türk
+mevzuatı ve Türk platformları gibi genel araçların atladığı ayrıntılara odaklanıyor, skill'lerin bir kısmını ücretsiz
+açıyoruz.
 
 ### Ücretsiz Claude Code skill'leri (MIT)
 
@@ -41,21 +41,22 @@ Kendi işimizde Türkçe için ihtiyaç duyduğumuz yapay zekâ araçlarını Cl
 Kurulum her repo'nun README dosyasında. Hepsi bilgisayarınızda çalışır: hesap açtırmaz, ücretli API çağırmaz,
 hiçbir şey paylaşmaz, yüklemez ya da göndermez.
 
-Hata bulursanız ya da bir öneriniz varsa ilgili repo'da issue açın.
 
 ### In English
 
-Redirhan Studio is a social media agency in Türkiye. We build Claude Code skills for Turkish-language work
+Redirhan Labs is a small team building AI tools (Claude Code skills) for Turkish-language work
 (locale-correct casing, Turkish ad-disclosure rules, a synthetic Turkish focus group, listing kits for Turkish
 marketplaces and real-estate portals, B2B email drafts with a Turkish compliance checklist) and publish the free ones
 under the MIT licence. The compliance checkers are informational, not legal advice. Issues and pull requests are
 welcome in each repo.
 
-### İletişim
+### İletişim / Contact
 
-- Instagram: [@redirhanstudio](https://www.instagram.com/redirhanstudio/)
-- Web: [redirhan.com](https://redirhan.com)
-- Ürün fotoğrafın pazaryeri kontrolünden geçmiyor mu? Telefonla çektiğin fotoğrafı ürün, renk ve etiket değişmeden
-  pazaryerine uygun görsele biz dönüştürelim: Instagram'dan yaz.
+- Hata, soru ya da öneri: ilgili repo'da [issue](https://github.com/redirhan?tab=repositories) açın. / Bugs, questions
+  and ideas: open an issue in the relevant repo.
+- Pro sürümler (Panel TR, Anlatım Stüdyosu) hazırlanıyor, henüz satışta değil. Haber almak için
+  [Pro bekleme listesi](https://github.com/redirhan/redirhan/issues/1) konusuna 👍 bırakın ya da yorum yazın. /
+  Pro editions are in preparation (not on sale yet): leave a 👍 or a comment on the
+  [Pro waitlist](https://github.com/redirhan/redirhan/issues/1).
 
 <sub>Claude ve Claude Code, Anthropic'in markalarıdır. Bu hesap Anthropic ile bağlantılı değildir.</sub>
